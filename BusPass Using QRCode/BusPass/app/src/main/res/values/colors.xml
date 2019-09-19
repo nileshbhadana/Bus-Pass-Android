@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E74E48</color>
+    <color name="colorPrimaryDark">#F3190A</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="buttonactive">#00B9F1</color>
+    <color name="signupcolor">#3E56DF</color>
+    <color name="fragbg">#FFEBEB</color>
+</resources>
